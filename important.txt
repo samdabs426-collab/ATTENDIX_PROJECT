@@ -1,0 +1,8 @@
+public: kJEQ7hRguqBzDIWN8
+Template ID: template_nm171bf
+Service ID: service_3nycler
+
+http://127.0.0.1:8000/home.php
+
+http://localhost:8080/phpmyadmin/index.php?route=/database/structure&db=abu123
+http://localhost:8080/phpmyadmin/index.php?route=/sql&db=mohammed4&table=staff&pos=0
